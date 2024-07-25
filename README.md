@@ -15,7 +15,7 @@ conda create -n aiassistant python=3.10 -y
 ```
 
 ```bash
-conda activate llmapp
+conda activate aiassistant
 ```
 
 
